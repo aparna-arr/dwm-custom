@@ -1,3 +1,6 @@
 [submodule "modules/dwmblocks"]
 	path = modules/dwmblocks
 	url = git@github.com:aparna-arr/dwmblocks.git
+[submodule "modules/dwmblocks-async"]
+	path = modules/dwmblocks-async
+	url = git@github.com:aparna-arr/dwmblocks-async.git
