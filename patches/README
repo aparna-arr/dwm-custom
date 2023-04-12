@@ -1,0 +1,2 @@
+wget https://dwm.suckless.org/patches/statuscmd/dwm-statuscmd-20210405-67d76bd.diff
+wget https://dwm.suckless.org/patches/notitle/dwm-notitle-6.2.diff

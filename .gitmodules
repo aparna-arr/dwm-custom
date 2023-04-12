@@ -1,0 +1,3 @@
+[submodule "modules/dwmblocks"]
+	path = modules/dwmblocks
+	url = git@github.com:torrinfail/dwmblocks.git
