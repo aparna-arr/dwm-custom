@@ -4,3 +4,6 @@
 [submodule "modules/dwmblocks-async"]
 	path = modules/dwmblocks-async
 	url = git@github.com:aparna-arr/dwmblocks-async.git
+[submodule "modules/dmenu"]
+	path = modules/dmenu
+	url = https://git.suckless.org/dmenu
