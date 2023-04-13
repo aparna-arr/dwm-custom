@@ -1686,7 +1686,6 @@ sigchld(int unused)
 	while (0 < waitpid(-1, NULL, WNOHANG));
 }
 
-
 void
 sigstatusbar(const Arg *arg)
 {
